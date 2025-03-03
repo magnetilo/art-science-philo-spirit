@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+scipy
+openai
+python-dotenv
+tabulate

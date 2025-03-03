@@ -1,0 +1,112 @@
++--------+---------+----------------------------------------+-------------------------------------------------------+----------------------+----------+
+|   Year | Field   | Idea/Movement                          | Influential Individuals                               | Continent            |   Weight |
+|--------+---------+----------------------------------------+-------------------------------------------------------+----------------------+----------|
+|  -4000 | philo   | Proto-Religious Thought                | Early Mesopotamian and Egyptian thinkers              | Middle East          |        7 |
+|  -4000 | science | Early Metallurgy                       | Unnamed Sumerian and Egyptian metalworkers            | Middle East          |        7 |
+|  -3500 | science | Writing Systems                        | Sumerians, Ancient Egyptians                          | Middle East          |        8 |
+|  -3000 | science | Early Astronomy                        | Mesopotamian and Egyptian astronomers                 | Middle East          |        8 |
+|  -3000 | philo   | Ancient Chinese Philosophy             | Unnamed early Chinese sages                           | Asia                 |        7 |
+|  -2600 | philo   | Egyptian Moral Philosophy              | Ptahhotep                                             | Africa               |        7 |
+|  -2600 | science | Medicine in Egypt                      | Imhotep                                               | Africa               |        8 |
+|  -2000 | philo   | Vedic Philosophy                       | Vedic Rishis                                          | Asia                 |        8 |
+|  -2000 | science | Babylonian Mathematics                 | Unnamed Babylonian scholars                           | Middle East          |        8 |
+|  -2000 | spirit  | Vedic Religion                         | Vedic Rishis                                          | Asia                 |        9 |
+|  -2000 | art     | Ancient Egyptian Art                   | Imhotep, Thutmose, Senenmut                           | Africa               |        9 |
+|  -1800 | spirit  | Zoroastrianism                         | Zoroaster                                             | Asia                 |        9 |
+|  -1600 | art     | Minoan Art                             | Unnamed fresco painters of Knossos                    | Europe               |        8 |
+|  -1600 | philo   | Babylonian Ethics                      | Hammurabi                                             | Middle East          |        8 |
+|  -1600 | science | Egyptian Medicine                      | Unnamed Egyptian physicians                           | Africa               |        7 |
+|  -1500 | science | Early Chemistry (Alchemy)              | Chinese and Egyptian alchemists                       | Asia, Africa         |        7 |
+|  -1500 | spirit  | Ancient Egyptian Religion              | High Priests of Amun                                  | Africa               |        8 |
+|  -1200 | philo   | Hebrew Monotheistic Ethics             | Moses                                                 | Middle East          |        9 |
+|  -1200 | science | Iron Smelting                          | Hittite Metallurgists                                 | Middle East          |        8 |
+|  -1200 | spirit  | Hebrew Monotheism                      | Moses                                                 | Middle East          |       10 |
+|  -1100 | art     | Ancient Chinese Art                    | Unnamed artisans of the Shang Dynasty                 | Asia                 |        9 |
+|   -800 | science | Greek Natural Philosophy               | Thales, Anaximander, Heraclitus                       | Europe               |        9 |
+|   -800 | art     | Ancient Greek Art                      | Phidias, Polykleitos, Praxiteles                      | Europe               |        9 |
+|   -800 | spirit  | Taoism                                 | Laozi                                                 | Asia                 |        9 |
+|   -800 | philo   | Upanishadic Thought                    | Early Hindu sages                                     | Asia                 |        9 |
+|   -600 | philo   | Taoism                                 | Laozi                                                 | Asia                 |        9 |
+|   -600 | philo   | Jain Philosophy                        | Mahavira                                              | Asia                 |        9 |
+|   -600 | science | Early Atomic Theory                    | Leucippus, Democritus                                 | Europe               |        8 |
+|   -600 | spirit  | Jainism                                | Mahavira                                              | Asia                 |        9 |
+|   -563 | spirit  | Buddhism                               | Siddhartha Gautama (Buddha)                           | Asia                 |       10 |
+|   -550 | spirit  | Confucianism                           | Confucius                                             | Asia                 |        9 |
+|   -500 | science | Hippocratic Medicine                   | Hippocrates                                           | Europe               |        9 |
+|   -500 | art     | Ancient Indian Art                     | Unnamed sculptors of the Maurya Empire                | Asia                 |        9 |
+|   -500 | philo   | Greek Philosophy                       | Socrates, Plato, Aristotle                            | Europe               |       10 |
+|   -500 | spirit  | Greek Philosophy & Spirituality        | Pythagoras, Socrates, Plato, Aristotle                | Europe               |        9 |
+|   -500 | philo   | Confucianism                           | Confucius                                             | Asia                 |        9 |
+|   -400 | philo   | Buddhist Philosophy                    | Siddhartha Gautama (Buddha)                           | Asia                 |       10 |
+|   -300 | science | Euclidean Geometry                     | Euclid                                                | Europe               |       10 |
+|   -300 | philo   | Stoicism                               | Zeno of Citium                                        | Europe               |        9 |
+|   -250 | science | Archimedean Mechanics                  | Archimedes                                            | Europe               |       10 |
+|   -200 | art     | Ancient Roman Art                      | Apollodorus of Damascus, Unnamed mosaic artists       | Europe               |        8 |
+|   -100 | philo   | Roman Philosophy                       | Cicero, Seneca, Marcus Aurelius                       | Europe               |        8 |
+|     30 | spirit  | Christianity                           | Jesus Christ                                          | Middle East          |       10 |
+|    150 | science | Ptolemaic Astronomy                    | Claudius Ptolemy                                      | Europe               |        9 |
+|    200 | philo   | Neoplatonism                           | Plotinus                                              | Europe               |        8 |
+|    250 | spirit  | Mahayana Buddhism                      | Nagarjuna, Ashvaghosha                                | Asia                 |        9 |
+|    300 | art     | Byzantine Art                          | Unnamed icon painters, mosaicists                     | Europe/Asia          |        9 |
+|    500 | philo   | Christian Philosophy                   | Augustine of Hippo                                    | Europe               |        9 |
+|    570 | spirit  | Islam                                  | Muhammad                                              | Middle East          |       10 |
+|    700 | art     | Islamic Art                            | Calligraphers and architects of the Umayyad Caliph... | Middle East          |        9 |
+|    800 | philo   | Islamic Philosophy                     | Al-Farabi, Avicenna, Al-Ghazali                       | Middle East          |        9 |
+|    800 | spirit  | Vajrayana Buddhism                     | Padmasambhava                                         | Asia                 |        8 |
+|    800 | science | Algebra                                | Al-Khwarizmi                                          | Middle East          |        9 |
+|   1000 | art     | Romanesque Art                         | Unnamed cathedral sculptors and architects            | Europe               |        8 |
+|   1000 | science | Optics                                 | Ibn al-Haytham                                        | Middle East          |        9 |
+|   1100 | spirit  | Sufism                                 | Rumi, Al-Ghazali                                      | Middle East          |        9 |
+|   1100 | science | Early Medicine                         | Avicenna                                              | Middle East          |        9 |
+|   1150 | art     | Gothic Art                             | Giotto di Bondone, Abbot Suger                        | Europe               |        9 |
+|   1200 | philo   | Scholasticism                          | Thomas Aquinas                                        | Europe               |        9 |
+|   1200 | science | Scientific Method (Islamic)            | Alhazen, Al-Biruni                                    | Middle East          |        9 |
+|   1300 | art     | Renaissance                            | Leonardo da Vinci, Michelangelo Buonarroti, Raphae... | Europe               |       10 |
+|   1400 | philo   | Renaissance Humanism                   | Erasmus, Pico della Mirandola                         | Europe               |        9 |
+|   1469 | spirit  | Sikhism                                | Guru Nanak                                            | Asia                 |        9 |
+|   1543 | science | Heliocentric Theory                    | Nicolaus Copernicus                                   | Europe               |       10 |
+|   1600 | science | Modern Scientific Method               | Francis Bacon, Galileo Galilei                        | Europe               |       10 |
+|   1600 | spirit  | Christian Mysticism                    | St. John of the Cross, Teresa of Ávila                | Europe               |        8 |
+|   1600 | art     | Baroque                                | Caravaggio, Rembrandt van Rijn, Peter Paul Rubens     | Europe               |        9 |
+|   1600 | philo   | Rationalism                            | René Descartes, Baruch Spinoza, Leibniz               | Europe               |       10 |
+|   1687 | science | Classical Mechanics                    | Isaac Newton                                          | Europe               |       10 |
+|   1700 | art     | Rococo                                 | Jean-Antoine Watteau, François Boucher, Jean-Honor... | Europe               |        8 |
+|   1700 | philo   | Empiricism                             | John Locke, David Hume                                | Europe               |       10 |
+|   1750 | art     | Neoclassicism                          | Jacques-Louis David, Antonio Canova, Jean-Auguste-... | Europe               |        8 |
+|   1750 | science | Electricity Studies                    | Benjamin Franklin                                     | North America        |        9 |
+|   1780 | spirit  | Enlightenment Spirituality             | Immanuel Kant, Voltaire                               | Europe               |        9 |
+|   1780 | philo   | German Idealism                        | Immanuel Kant, Georg Hegel                            | Europe               |       10 |
+|   1800 | philo   | Utilitarianism                         | Jeremy Bentham, John Stuart Mill                      | Europe               |        9 |
+|   1800 | art     | Romanticism                            | Francisco Goya, J.M.W. Turner, Caspar David Friedr... | Europe               |        9 |
+|   1820 | science | Electromagnetism                       | André-Marie Ampère, Michael Faraday                   | Europe               |       10 |
+|   1840 | philo   | Existentialism                         | Søren Kierkegaard                                     | Europe               |        9 |
+|   1850 | philo   | Marxism                                | Karl Marx, Friedrich Engels                           | Europe               |       10 |
+|   1850 | art     | Realism                                | Gustave Courbet, Jean-François Millet, Honoré Daum... | Europe               |        8 |
+|   1859 | science | Evolution by Natural Selection         | Charles Darwin                                        | Europe               |       10 |
+|   1870 | art     | Impressionism                          | Claude Monet, Édouard Manet, Pierre-Auguste Renoir    | Europe               |       10 |
+|   1875 | spirit  | Theosophy                              | Helena Blavatsky, Henry Steel Olcott                  | Europe/N. America    |        8 |
+|   1880 | art     | Post-Impressionism                     | Vincent van Gogh, Paul Cézanne, Georges Seurat        | Europe               |       10 |
+|   1893 | spirit  | Modern Hindu Revival                   | Swami Vivekananda                                     | Asia                 |        9 |
+|   1900 | art     | Expressionism                          | Edvard Munch, Wassily Kandinsky, Egon Schiele         | Europe               |        9 |
+|   1900 | philo   | Analytic Philosophy                    | Bertrand Russell, Ludwig Wittgenstein                 | Europe               |       10 |
+|   1905 | science | Special Relativity                     | Albert Einstein                                       | Europe               |       10 |
+|   1910 | art     | Cubism                                 | Pablo Picasso, Georges Braque, Juan Gris              | Europe               |       10 |
+|   1920 | spirit  | New Thought Movement                   | Ernest Holmes, Emmet Fox                              | N. America           |        8 |
+|   1920 | philo   | Phenomenology                          | Edmund Husserl, Martin Heidegger                      | Europe               |        9 |
+|   1920 | art     | Surrealism                             | Salvador Dalí, André Breton, Max Ernst                | Europe               |        9 |
+|   1927 | science | Quantum Mechanics                      | Werner Heisenberg, Erwin Schrödinger                  | Europe               |       10 |
+|   1940 | art     | Abstract Expressionism                 | Jackson Pollock, Willem de Kooning, Mark Rothko       | North America        |       10 |
+|   1950 | philo   | Postmodernism                          | Michel Foucault, Jacques Derrida                      | Europe               |        9 |
+|   1950 | spirit  | Zen & Eastern Spirituality in the West | D.T. Suzuki, Alan Watts                               | N. America/Europe    |        9 |
+|   1950 | art     | Pop Art                                | Andy Warhol, Roy Lichtenstein, Richard Hamilton       | North America        |       10 |
+|   1953 | science | DNA Structure                          | James Watson, Francis Crick, Rosalind Franklin        | Europe/N. America    |       10 |
+|   1960 | spirit  | New Age Movement                       | Various spiritual leaders                             | N. America           |        8 |
+|   1960 | art     | Minimalism                             | Donald Judd, Agnes Martin, Frank Stella               | North America        |        8 |
+|   1969 | science | Moon Landing                           | NASA Apollo 11 team                                   | North America        |       10 |
+|   1970 | art     | Conceptual Art                         | Sol LeWitt, Joseph Kosuth, Lawrence Weiner            | North America        |        8 |
+|   1980 | science | Personal Computing                     | Steve Jobs, Bill Gates                                | North America        |        9 |
+|   1980 | art     | Street Art                             | Jean-Michel Basquiat, Keith Haring, Banksy            | North America/Europe |        9 |
+|   1990 | art     | Contemporary Art                       | Damien Hirst, Jeff Koons, Yayoi Kusama                | Europe/Asia          |        9 |
+|   1990 | spirit  | Mindfulness Movement                   | Jon Kabat-Zinn                                        | N. America           |        9 |
+|   2000 | science | Human Genome Project                   | International Team                                    | Global               |       10 |
++--------+---------+----------------------------------------+-------------------------------------------------------+----------------------+----------+
